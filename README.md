@@ -28,4 +28,4 @@ You can access the executable source codes and complete experimental workflows v
 ## Full Project Report
 For a deep dive into the methodology, embedding combinations, hallucination analysis, and evaluation metrics, please refer to the detailed academic report (in Turkish):
 
-**[View the Full Final Report PDF](./255172006_sude_ozmen_Met_Final_Report.pdf)**
+**[View the Full Report PDF](./255172006_sude_ozmen_Met_Final_Report.pdf)**
